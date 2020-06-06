@@ -22,7 +22,7 @@ We're reimagining how customers navigate lines, with new and creative delivery o
 # IBM Cloud Services used
 * **Cloud Functions** (https://cloud.ibm.com/functions/) - Cloud Function Actions
 * **API Gateway** (https://cloud.ibm.com/functions/apimanagement) - Cloud Functions API
-* **Cloudant DB** (https://cloud.ibm.com/catalog/services/cloudant) - Cloudant DB for storage (edited) 
+* **Cloudant DB** (https://cloud.ibm.com/catalog/services/cloudant) - Cloudant DB for storage
 # UI/UX Tools
 * **Sketch** (https://www.sketch.com/) - UI tool used
 * **Adobe Premier pro** (https://www.adobe.com/in/products/premiere.html) - Video editing
